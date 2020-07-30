@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ResourceLocations</string>
+    <string name="title_activity_map">MapActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="GoogleAPIKey">AIzaSyDhRJ10_9YpUFBQrC_OKYOx0kBTx6f_8eg</string>
+
+    <string name="APIFoodShelter">https://api.jsonbin.io/b/5f189efec1edc466175c5ff5/6</string>
+    <string name="APIMedicalCenter">https://api.jsonbin.io/b/5f1f3d0cc1edc466175f8dd0/2</string>
+</resources>
